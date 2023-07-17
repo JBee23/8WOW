@@ -1,24 +1,25 @@
 <!DOCTYPE html>
 <html>
 <body>
+<body style="background-color:black;">
 
-<h1>8WOW's LINKS</h1>
+<h1 style="color:white;">8WOW's LINKS</h1>
 
-<h3>Yo, I am 8WOW, a Youtuber and Creator of some things. This website is all of the links I am associated with.</h3>
+<h3 style="color:white;">Yo, I am 8WOW, a Youtuber and Creator of some things. This website is all of the links I am associated with.</h3>
 
-<p>First is my youtube link.</p>
+<p style="color:white;">First is my youtube link.</p>
 
 <a href=https://www.youtube.com/@8WOWYT/featured>
 Youtube
 </a>
 
-<p>Next is my discord. [This invite will eventually expire, remind me to update it in my youtube comments or at this email 8wowgames@gmail.com].</p>
+<p style="color:white;">Next is my discord. [This invite will eventually expire, remind me to update it in my youtube comments or at this email 8wowgames@gmail.com].</p>
 
 <a href=https://discord.gg/ZafyDACk3>
 Discord
 </a>
 
-<p>Lastly, here is the latest video from my Youtube Channel.</p>
+<p style="color:white;">Lastly, here is the latest video from my Youtube Channel.</p>
 
 <iframe width="600" height="340" src="https://www.youtube.com/embed?max-results=1&controls=0&showinfo=0&rel=0&listType=user_uploads&list=8WOW" frameborder="0" allowfullscreen></iframe>
 </body>
